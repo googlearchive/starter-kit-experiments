@@ -1,0 +1,21 @@
+{
+  "name": "starter-with-card",
+  "version": "0.1.0",
+  "authors": [
+    "Anonymous <anonymous@example.com>"
+  ],
+  "description": "An app providing a solution to no problem in particular.",
+  "keywords": [
+    "polymer",
+    "starter-kit"
+  ],
+  "main": "index.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/<app-name>/",
+  "ignore": [
+    "/.*"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
